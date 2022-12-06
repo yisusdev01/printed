@@ -1,0 +1,25 @@
+.body-login{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    height: 100vh;
+}
+.body-left{
+    display: grid;
+    background-color:darkgrey;
+    
+}
+.body-right{
+    
+}
+.slide{
+    justify-self: center;
+    align-self: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+h4{
+    text-align: center;
+}
